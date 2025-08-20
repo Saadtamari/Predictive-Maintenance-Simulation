@@ -46,9 +46,6 @@ DA380_Final_Project/
 ├── README.md                       # This file
 ├── Final_Report.pdf                # Project report
 └── screenshots/                    # Application screenshots
-    ├── main_interface.png
-    ├── simulation_results.png
-    └── comparative_analysis.png
 ```
 
 ## 🔧 Features
